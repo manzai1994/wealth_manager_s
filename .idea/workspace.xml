@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdcd2703-b441-4663-b904-4eb830dfc06d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_XL_API_28" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hWvJlVqYqVMAoGcLJYc7pA3xqC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../QuickDesk/quick_desk" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abcd\Desktop\Folder Sync Drive\2. Project\Flutter\wealth_manager\assets\images\card_logo" />
+      <recent name="C:\Users\abcd\Desktop\Folder Sync Drive\2. Project\Flutter\wealth_manager\lib\widgets" />
+      <recent name="C:\Users\abcd\Desktop\Folder Sync Drive\2. Project\Flutter\wealth_manager\lib\screens" />
+      <recent name="C:\Users\abcd\Desktop\Folder Sync Drive\2. Project\Flutter\wealth_manager\lib\screens\home\edit_add_account\account_card_widget" />
+      <recent name="C:\Users\abcd\Desktop\Folder Sync Drive\2. Project\Flutter\wealth_manager\lib\screens\home\edit_add_account" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdcd2703-b441-4663-b904-4eb830dfc06d" name="Default Changelist" comment="" />
+      <created>1600139592856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600139592856</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Fix Bug&#10;- transaction undo calculation error (bank only)&#10;- cash transaction not working&#10;- unable to select bank account in TransactionWidget when only 1 bank account available">
+      <created>1605460218377</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605460218377</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Removing unnecessary codes &amp; comments">
+      <created>1605461323054</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605461323054</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Editing and Adding Account features are now available.&#10;                                                                &#10;                                                                &#10;#known Issue&#10;- must have at least one bank and one cash accounts.&#10;- first time setup accounts are in multiple transactions.">
+      <created>1606228425583</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606228425583</updated>
+    </task>
+    <task id="LOCAL-00004" summary="testing">
+      <created>1606229341400</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606229341401</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creating separate class for each widget instead of one widget class to contain all the widget, for example,&#10;&#10;old: &#10;    widget.class &#10;       - BalanceTranferWidget &#10;       - BalanceWidget&#10;       - ... and so on. &#10;&#10;latest:&#10;    - account_balance_widget.class&#10;    - balance_widget.class&#10;    - ... and so on.&#10;    &#10;added: firebase dependencies into the project.">
+      <created>1606292790477</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606292790477</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding Firebase feature for cloud services.&#10;&#10;added: &#10;- sign in and out with email&amp;password method&#10;&#10;on-going:&#10;- moving local data storing to firebase">
+      <created>1606361470837</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606361470839</updated>
+    </task>
+    <task id="LOCAL-00007" summary="latest version firebase features">
+      <created>1606575915101</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606575915102</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Bug Fix&#10;- history log message">
+      <created>1611475905967</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611475905968</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Fix Bug&#10;- transaction undo calculation error (bank only)&#10;- cash transaction not working&#10;- unable to select bank account in TransactionWidget when only 1 bank account available" />
+    <MESSAGE value="Removing unnecessary codes &amp; comments" />
+    <MESSAGE value="Editing and Adding Account features are now available.&#10;                                                                &#10;                                                                &#10;#known Issue&#10;- must have at least one bank and one cash accounts.&#10;- first time setup accounts are in multiple transactions." />
+    <MESSAGE value="testing" />
+    <MESSAGE value="Creating separate class for each widget instead of one widget class to contain all the widget, for example,&#10;&#10;old: &#10;    widget.class &#10;       - BalanceTranferWidget &#10;       - BalanceWidget&#10;       - ... and so on. &#10;&#10;latest:&#10;    - account_balance_widget.class&#10;    - balance_widget.class&#10;    - ... and so on.&#10;    &#10;added: firebase dependencies into the project." />
+    <MESSAGE value="Adding Firebase feature for cloud services.&#10;&#10;added: &#10;- sign in and out with email&amp;password method&#10;&#10;on-going:&#10;- moving local data storing to firebase" />
+    <MESSAGE value="latest version firebase features" />
+    <MESSAGE value="Bug Fix&#10;- history log message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug Fix&#10;- history log message" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/services/database.dart</url>
+          <line>142</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/history.dart</url>
+          <line>32</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

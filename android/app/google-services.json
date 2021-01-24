@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827823935233",
+    "firebase_url": "https://cashflow-1b8ce.firebaseio.com",
+    "project_id": "cashflow-1b8ce",
+    "storage_bucket": "cashflow-1b8ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827823935233:android:5320c01ba49154a220d500",
+        "android_client_info": {
+          "package_name": "com.manzai.wealthmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827823935233-phk3vb7792bov4ml0li7ojhg1n812oc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHQEh83OoM5v5oC7OkVsMqOOVJXRDFV2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827823935233-phk3vb7792bov4ml0li7ojhg1n812oc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
